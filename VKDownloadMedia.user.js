@@ -9,7 +9,7 @@
 // @homepage    https://greasyfork.org/ru/scripts/7385-vkdownloadmedia
 // @downloadURL https://greasyfork.org/scripts/7385-vkdownloadmedia/code/VKDownloadMedia.user.js
 // @supportURL  https://vk.com/vkdownloadmedia
-// @include     *
+// @include     https://*vk.com/*
 // @run-at      document-end
 // @grant       none
 // ==/UserScript==
